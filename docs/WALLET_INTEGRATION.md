@@ -8,3 +8,4 @@ Follow standard Node.js practices to initialize.
 - Stacks Connect Integration
 - Wallet Connect
 - Chainhooks Client
+- Clarity v4 Contracts
