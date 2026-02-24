@@ -7,3 +7,4 @@
   (begin
     (asserts! (is-eq tx-sender (var-get admin)) ERR_UNAUTHORIZED)
     ;; avoiding as-contract syntax for clarity 4 compliance
+    (var-set admin new-admin)
