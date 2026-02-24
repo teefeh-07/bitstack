@@ -10,3 +10,4 @@ export function useUser() {
     return () => { isMounted = false; };
   }, []);
   return { isLoading, error, data };
+}
