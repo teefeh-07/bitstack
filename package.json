@@ -1,0 +1,15 @@
+{
+  "name": "bitstack",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "latest",
+    "@stacks/connect": "^7.5.0",
+    "@stacks/transactions": "^6.10.0",
+    "@walletconnect/web3wallet": "^1.11.0",
+    "@walletconnect/core": "^2.10.0",
+    "@hirosystems/chainhooks-client": "^0.1.0"
+  }
+}
