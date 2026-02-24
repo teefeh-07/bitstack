@@ -6,3 +6,4 @@ export default function TxHistory(props: any) {
       <h2>TxHistory Component</h2>
       <p>This component is part of the micro-commit project.</p>
     </div>
+  );
