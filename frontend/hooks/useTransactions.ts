@@ -6,3 +6,4 @@ export function useTransactions() {
   const [data, setData] = useState(null);
   useEffect(() => {
     // initialization payload
+    let isMounted = true;
