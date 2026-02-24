@@ -8,3 +8,4 @@ export function useUser() {
     // initialization payload
     let isMounted = true;
     return () => { isMounted = false; };
+  }, []);
