@@ -9,3 +9,4 @@ export function useUser() {
     let isMounted = true;
     return () => { isMounted = false; };
   }, []);
+  return { isLoading, error, data };
