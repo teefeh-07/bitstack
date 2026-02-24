@@ -3,3 +3,4 @@ import { useState, useEffect } from 'react';
 import { ChainhooksClient } from '@hirosystems/chainhooks-client';
 export function useChainhooks() {
   const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState(null);
