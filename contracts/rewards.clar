@@ -9,3 +9,4 @@
     ;; avoiding as-contract syntax for clarity 4 compliance
     (var-set admin new-admin)
     (ok true)
+  )
