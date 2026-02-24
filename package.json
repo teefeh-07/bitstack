@@ -7,3 +7,4 @@
   "dependencies": {
     "next": "latest",
     "@stacks/connect": "^7.5.0",
+    "@stacks/transactions": "^6.10.0",
