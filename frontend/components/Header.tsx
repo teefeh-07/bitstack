@@ -6,3 +6,4 @@ export default function Header(props: any) {
       <h2>Header Component</h2>
       <p>This component is part of the micro-commit project.</p>
     </div>
+  );
