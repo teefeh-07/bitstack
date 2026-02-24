@@ -11,3 +11,4 @@ export function useChainhooks() {
     return () => { isMounted = false; };
   }, []);
   return { isLoading, error, data };
+}
