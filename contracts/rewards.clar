@@ -13,3 +13,4 @@
 )
 (define-read-only (get-admin)
   (var-get admin)
+)
