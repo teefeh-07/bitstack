@@ -9,3 +9,4 @@
     "@stacks/connect": "^7.5.0",
     "@stacks/transactions": "^6.10.0",
     "@walletconnect/web3wallet": "^1.11.0",
+    "@walletconnect/core": "^2.10.0",
