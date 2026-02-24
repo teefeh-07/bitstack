@@ -10,3 +10,4 @@ export function useApi() {
     return () => { isMounted = false; };
   }, []);
   return { isLoading, error, data };
+}
