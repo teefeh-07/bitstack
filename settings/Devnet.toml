@@ -1,3 +1,4 @@
 [devnet]
 port = 20443
 [devnet.wallet_1]
+coins = 1000000
