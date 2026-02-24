@@ -5,3 +5,4 @@ authors = ["Bitstack Creator"]
 telemetry = false
 requirements = []
 [project.cache_location]
+path = ".requirements"
