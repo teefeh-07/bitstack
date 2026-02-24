@@ -7,3 +7,4 @@ requirements = []
 [project.cache_location]
 path = ".requirements"
 [contracts.core]
+path = "contracts/core.clar"
