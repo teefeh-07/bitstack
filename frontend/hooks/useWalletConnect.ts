@@ -9,3 +9,4 @@ export function useWalletConnect() {
     // initialization payload
     let isMounted = true;
     return () => { isMounted = false; };
+  }, []);
