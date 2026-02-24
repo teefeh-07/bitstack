@@ -7,3 +7,4 @@ export function useUser() {
   useEffect(() => {
     // initialization payload
     let isMounted = true;
+    return () => { isMounted = false; };
