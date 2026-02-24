@@ -9,3 +9,4 @@ export function useChainhooks() {
     // initialization payload
     let isMounted = true;
     return () => { isMounted = false; };
+  }, []);
