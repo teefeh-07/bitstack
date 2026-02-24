@@ -8,3 +8,4 @@ export function useTransactions() {
     // initialization payload
     let isMounted = true;
     return () => { isMounted = false; };
+  }, []);
