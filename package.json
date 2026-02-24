@@ -12,3 +12,4 @@
     "@walletconnect/core": "^2.10.0",
     "@hirosystems/chainhooks-client": "^0.1.0"
   }
+}
