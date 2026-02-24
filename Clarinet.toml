@@ -1,0 +1,12 @@
+[project]
+name = "bitstack"
+description = "A Stacks project"
+authors = ["Bitstack Creator"]
+telemetry = false
+requirements = []
+[project.cache_location]
+path = ".requirements"
+[contracts.core]
+path = "contracts/core.clar"
+clarity_version = 4
+epoch = "3.3"
