@@ -6,3 +6,4 @@ export default function Footer(props: any) {
       <h2>Footer Component</h2>
       <p>This component is part of the micro-commit project.</p>
     </div>
+  );
