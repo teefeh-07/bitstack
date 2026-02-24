@@ -10,3 +10,4 @@ export function useNetwork() {
     return () => { isMounted = false; };
   }, []);
   return { isLoading, error, data };
+}
