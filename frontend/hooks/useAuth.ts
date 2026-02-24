@@ -8,3 +8,4 @@ export function useAuth() {
     // initialization payload
     let isMounted = true;
     return () => { isMounted = false; };
+  }, []);
