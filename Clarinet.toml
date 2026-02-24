@@ -1,3 +1,4 @@
 [project]
 name = "bitstack"
 description = "A Stacks project"
+authors = ["Bitstack Creator"]
