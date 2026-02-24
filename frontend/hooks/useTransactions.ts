@@ -10,3 +10,4 @@ export function useTransactions() {
     return () => { isMounted = false; };
   }, []);
   return { isLoading, error, data };
+}
