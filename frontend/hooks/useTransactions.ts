@@ -7,3 +7,4 @@ export function useTransactions() {
   useEffect(() => {
     // initialization payload
     let isMounted = true;
+    return () => { isMounted = false; };
