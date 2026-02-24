@@ -8,3 +8,4 @@ export function useApi() {
     // initialization payload
     let isMounted = true;
     return () => { isMounted = false; };
+  }, []);
