@@ -3,3 +3,4 @@ import { useState, useEffect } from 'react';
 export function useContract() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
+  const [data, setData] = useState(null);
