@@ -10,3 +10,4 @@ export function useBalance() {
     return () => { isMounted = false; };
   }, []);
   return { isLoading, error, data };
+}
