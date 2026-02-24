@@ -11,3 +11,4 @@
     (ok true)
   )
 )
+(define-read-only (get-admin)
