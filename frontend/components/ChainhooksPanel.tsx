@@ -6,3 +6,4 @@ export default function ChainhooksPanel(props: any) {
       <h2>ChainhooksPanel Component</h2>
       <p>This component is part of the micro-commit project.</p>
     </div>
+  );
