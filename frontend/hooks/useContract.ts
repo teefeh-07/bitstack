@@ -10,3 +10,4 @@ export function useContract() {
     return () => { isMounted = false; };
   }, []);
   return { isLoading, error, data };
+}
