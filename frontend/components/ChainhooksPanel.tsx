@@ -5,3 +5,4 @@ export default function ChainhooksPanel(props: any) {
     <div className="component-container">
       <h2>ChainhooksPanel Component</h2>
       <p>This component is part of the micro-commit project.</p>
+    </div>
