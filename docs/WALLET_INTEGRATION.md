@@ -7,3 +7,4 @@ Follow standard Node.js practices to initialize.
 ## Features
 - Stacks Connect Integration
 - Wallet Connect
+- Chainhooks Client
