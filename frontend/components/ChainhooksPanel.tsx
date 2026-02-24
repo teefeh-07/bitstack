@@ -2,3 +2,4 @@ import React from 'react';
 import styles from './ChainhooksPanel.module.css';
 export default function ChainhooksPanel(props: any) {
   return (
+    <div className="component-container">
