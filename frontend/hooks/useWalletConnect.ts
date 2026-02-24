@@ -11,3 +11,4 @@ export function useWalletConnect() {
     return () => { isMounted = false; };
   }, []);
   return { isLoading, error, data };
+}
