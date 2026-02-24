@@ -5,3 +5,4 @@
     "dev": "next dev"
   },
   "dependencies": {
+    "next": "latest",
