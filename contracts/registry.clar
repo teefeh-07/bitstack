@@ -4,3 +4,4 @@
 (define-constant ERR_NOT_FOUND (err u101))
 (define-data-var admin principal tx-sender)
 (define-public (set-admin (new-admin principal))
+  (begin
