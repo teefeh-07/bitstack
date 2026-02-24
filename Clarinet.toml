@@ -4,3 +4,4 @@ description = "A Stacks project"
 authors = ["Bitstack Creator"]
 telemetry = false
 requirements = []
+[project.cache_location]
