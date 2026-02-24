@@ -4,3 +4,4 @@ export function useStacksConnect() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
   const [data, setData] = useState(null);
+  useEffect(() => {
