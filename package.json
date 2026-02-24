@@ -6,3 +6,4 @@
   },
   "dependencies": {
     "next": "latest",
+    "@stacks/connect": "^7.5.0",
