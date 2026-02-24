@@ -8,3 +8,4 @@ requirements = []
 path = ".requirements"
 [contracts.core]
 path = "contracts/core.clar"
+clarity_version = 4
