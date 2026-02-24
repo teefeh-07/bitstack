@@ -5,3 +5,4 @@ The Bitstack project uses an advanced micro-commit strategy.
 ## Setup
 Follow standard Node.js practices to initialize.
 ## Features
+- Stacks Connect Integration
