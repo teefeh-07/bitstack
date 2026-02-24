@@ -7,3 +7,4 @@ export function useNetwork() {
   useEffect(() => {
     // initialization payload
     let isMounted = true;
+    return () => { isMounted = false; };
