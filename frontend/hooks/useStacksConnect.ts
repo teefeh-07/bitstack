@@ -9,3 +9,4 @@ export function useStacksConnect() {
     let isMounted = true;
     return () => { isMounted = false; };
   }, []);
+  return { isLoading, error, data };
