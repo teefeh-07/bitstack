@@ -10,3 +10,4 @@ export function useAuth() {
     return () => { isMounted = false; };
   }, []);
   return { isLoading, error, data };
+}
